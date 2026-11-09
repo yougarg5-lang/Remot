@@ -1,3 +1,1 @@
-plugins {
-    id 'com.android.application' version '8.1.0' apply false
-}
+// Root build.gradle empty or plugin management handled in settings
